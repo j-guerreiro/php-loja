@@ -27,7 +27,7 @@
   </header>
   <!-- principal -->
   <main class="secao-principal">
-    <section class="secao-interna"></section>
+    <section class="secao-interna"><?php echo "<h1>Resultados da busca aparecerão aqui! =)</h1>" ?></section>
   </main>
   <!-- rodape -->
   <footer>
