@@ -19,7 +19,7 @@
     </div>
     <div class="form-busca">
       <form class="form-interno" method="POST" action="buscar.php">
-        <input class="form-input" type="text" required>
+        <input class="form-input" type="text" required value="digite aqui o que procura =)">
         <label for="text">
         <button class="btn-enviar" type="submit">Buscar</button>
       </form>
@@ -30,7 +30,7 @@
     <section class="secao-interna"></section>
   </main>
   <!-- rodape -->
-  <footer>
+  <footer class="secao-rodape">
     <div class="footer-interno"></div>
   </footer>
   
