@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,13 +8,14 @@
   <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/estilo.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loja de Equipamentos Musicais</title>
+  <title>Musical Rio</title>
 </head>
 <body>
+  <!-- cabecalho|topo -->
   <header class="cabecalho-principal">
     <!-- formulario de busca -->
     <div class="titulo">
-      <h1 class="titulo-interno">Loja de Instrumentos Musicais</h1>
+      <h1 class="titulo-interno">Encontre seu equipamento</h1>
     </div>
     <div class="form-busca">
       <form class="form-interno" method="POST" action="buscar.php">
@@ -24,8 +25,14 @@
       </form>
     </div>
   </header>
-  <main></main>
-  <footer></footer>
+  <!-- principal -->
+  <main class="secao-principal">
+    <section class="secao-interna"></section>
+  </main>
+  <!-- rodape -->
+  <footer>
+    <div class="footer-interno"></div>
+  </footer>
   
 </body>
 </html>
