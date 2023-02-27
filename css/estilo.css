@@ -9,7 +9,12 @@ html {
   background-position: center;
 }
 
-h1,h2,h3,h5,h5,h6{
+h1,
+h2,
+h3,
+h5,
+h5,
+h6 {
   line-height: 1.4;
   color: rgb(235, 235, 235);
   text-shadow: 3px 3px 3px rgb(107, 84, 55);
@@ -42,9 +47,7 @@ h1,h2,h3,h5,h5,h6{
   text-align: center;
 }
 
-.titulo-interno {
-
-}
+.titulo-interno {}
 
 .form-busca {
   padding: 25px;
